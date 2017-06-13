@@ -3,8 +3,4 @@ Dply.co Buttens
 
 Openvpn
 
-https://dply.co/b/t93mUjd1
-cd /etc/openvpn
-chmod 777 * 
- ./vars 
- 
+https://dply.co/b/t93mUjd1 (Debian 8 ) 
